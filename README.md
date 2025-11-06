@@ -10,14 +10,14 @@ Serverless data pipeline automating CSV ingestion, transformation, and visualiza
 - **Amazon QuickSight** - Visualization
 
 ## 🏗️ System Architecture
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](aws-data-pipeline/images/architecture.png)
 
 ## 📸 Screenshots
 **S3 Data Buckets**
-![S3 Buckets](images/s3-buckets.jpg)
+![S3 Buckets](aws-data-pipeline/images/s3-buckets.jpg)
 
 **QuickSight Dashboard**
-![Dashboard](images/quicksight-analysis.jpg)
+![Dashboard](aws-data-pipeline/images/quicksight-analysis.jpg)
 
 ## 🔧 Deployment
 1. Create S3 buckets
